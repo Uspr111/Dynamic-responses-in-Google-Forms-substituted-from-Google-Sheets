@@ -1,6 +1,7 @@
 # Dynamic Responses in Google Forms from Google Sheets
-
-This project enables dynamic responses in Google Forms by substituting data from Google Sheets. It includes three files:
+Dropdown: Dropdown
+Single Answer Type: Multiple Choice
+Multiple Answer Type: Checkbox
 
 1. `MultipleChoice.js`
 2. `Dropdown.js`
